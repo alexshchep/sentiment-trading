@@ -1,0 +1,7 @@
+pandas
+numpy
+tweepy
+finnhub-python
+nltk
+scikit-learn
+matplotlib
